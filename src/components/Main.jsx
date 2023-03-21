@@ -20,7 +20,7 @@ export default function Main() {
     <>
       <div className='mainTexta'>
         <h1>Júnior</h1>
-        <p>Baseado nas 120 perguntas front-end, serão respondidas apenas 30, as de nível júnior. Contém um conjunto de perguntas relacionado a front-end e não só. As perguntas formam retiradas do github do Ruben Paschoarelli. Essas Perguntas têm o intuito de ser uma base para entrevistas e candidatos se nivelarem, em entrevistas de emprego. Não são necessariamente o fator decisivo da senioridade de cada candidato, porem, é sempre importante aprender.</p>
+        <p>Baseado nas 120 perguntas front-end, serão respondidas apenas 30, as de nível júnior. Contém um conjunto de perguntas relacionado a front-end e não só. As perguntas formam retiradas do github do <a href="https://github.com/rubenmarcus/120-perguntas-frontend">Ruben Paschoarelli.</a> Essas Perguntas têm o intuito de ser uma base para entrevistas e candidatos se nivelarem, em entrevistas de emprego. Não são necessariamente o fator decisivo da senioridade de cada candidato, porem, é sempre importante aprender.</p>
       </div>
     <main>
       <div className="accordion">
