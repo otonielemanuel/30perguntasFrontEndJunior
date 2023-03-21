@@ -17,7 +17,7 @@ footer div p {
 ul {
     display: flex;
     align-items: center;
-    gap: 20%;
+    gap: 10px;
 }
 
 ul li {
@@ -82,7 +82,7 @@ ul li a {
 }
 
 ul li a:hover {
-    color: red;
+    color: #008AFF;
     transition: .5s;
 }
 
