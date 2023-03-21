@@ -82,7 +82,7 @@ ul li a {
 }
 
 ul li a:hover {
-    color: #008AFF;
+    color: red;
     transition: .5s;
 }
 
