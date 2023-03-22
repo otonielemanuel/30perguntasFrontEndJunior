@@ -6,8 +6,8 @@ export default function Loader() {
   return (
     <div className="loader">
       <Oval
-        height={80}
-        width={80}
+        height={100}
+        width={100}
         color="#008AFF"
         wrapperStyle={{}}
         wrapperClass=""
