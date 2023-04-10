@@ -3,7 +3,8 @@
     text-align: justify;
 }
 
-.mainTexta h1 {
+.mainTexta h2 {
+    font-size: 1.5rem;
     font-weight: 800;
     color: #008AFF;
     margin-top: 30px;
@@ -12,7 +13,8 @@
 
 .mainTexta p {
     color: #f2f2f2;
-    font-size: 1em;
+    font-size: 1rem;
+    margin-bottom: -10px;
 }
 
 .mainTexta p a {
@@ -35,7 +37,7 @@ main {
 .item {
     background-color: #000;
     margin-bottom: 1px;
-    padding: 10px 20px;
+    padding: 1px 25px;
 }
 
 .title {
@@ -72,7 +74,7 @@ main {
         text-align: justify;
     }
     
-    .mainTexta h1 {
+    .mainTexta h2 {
         font-weight: 800;
         color: #008AFF;
         margin-top: 30px;

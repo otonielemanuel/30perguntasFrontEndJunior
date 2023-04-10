@@ -9,8 +9,10 @@ header nav {
     justify-content: center;
 }
 
-header nav img {
-    height: 25px;
+header nav h1 {
+    text-align: center;
+    font-size: 2rem;
+    color: #008AFF;
     -webkit-user-select: none;
     user-select: none;
 }

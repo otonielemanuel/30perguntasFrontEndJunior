@@ -8,10 +8,8 @@ footer {
 }
 
 footer div p {
-    font-size: 1em;
-    -webkit-user-select: none;
-    user-select: none;
-    font-weight: 400;
+    font-size: 0.9rem;
+    font-weight: 300;
 }
 
 ul {
@@ -86,4 +84,15 @@ ul li a:hover {
     transition: .5s;
 }
 
+}
+
+@media (max-width: 375px) {
+    footer {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .socialMidia {
+        font-size: 0.8rem;
+    }
 }

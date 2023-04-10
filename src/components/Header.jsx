@@ -7,7 +7,7 @@ export default function Header() {
   return (
     <header>
         <nav>
-            <img src={logo30} alt="" />
+            <h1>120 Perguntas Front-end</h1>
         </nav>
     </header>
   )
